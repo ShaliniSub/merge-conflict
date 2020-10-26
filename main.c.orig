@@ -1,9 +1,10 @@
-pseudo code
+seudo code
 {
 Initial Function()
 {
   //Sample Code
 }
+
 
 <<<<<<< HEAD
 feature1()
@@ -14,8 +15,6 @@ Initial Security()
 {
  //Sample Code
 >>>>>>> master
+
 }
-
-
-
 }
