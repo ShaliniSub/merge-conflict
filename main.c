@@ -12,6 +12,10 @@ Initial Security()
 
 }
 
+feature2
+{
+ //sample code
+}
 
 
 }
